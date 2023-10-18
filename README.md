@@ -6,10 +6,15 @@ It's a crude application. Any changes would be appreciated.
 
 ## Use
 --Get your profile
+<br/>
 --Get the present day transactions and trades
+
 --Get place all types of order and also multiple orders (eg. Intraday,cnc,limit etc)
+
 --Modify the pending orders
+
 --Convert the open positions from intraday to cnc and much more
+
 --Close open positions
 --Get the live price of multiple tickers
 --Get the history of the tickers
